@@ -1,6 +1,5 @@
 <?php
 
-class Loewenstark_Head_Helper_Data
-extends Mage_Core_Helper_Abstract
+class Loewenstark_Head_Helper_Data extends Mage_Core_Helper_Abstract
 {
 }
