@@ -1,0 +1,21 @@
+{
+   "name": "loewenstark/head",
+   "type": "magento-module",
+   "license": "GPL-3.0",
+   "description": "Add a version parameter to asset files (CSS/JS)",
+   "homepage": "https://github.com/mklooss/Loewenstark_Head",
+   "authors":[
+        {
+            "name":"Mathis Klooss"
+        },
+        {
+            "name":"Volker Thiel"
+        },
+        {
+            "name":"Leon Weickert"
+        }
+    ],
+   "suggest": {
+      "magento-hackathon/magento-composer-installer": "*"
+   }
+}
